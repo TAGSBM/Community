@@ -9,6 +9,11 @@
         'res_company.xml',
     ],
     'demo': [],
+    'currrency':'EUR',
+    'price': 4.99,
+    'images':[
+    'static/description/1.jpg',
+    ],
     'depends': ['web', 'account','report'],
     'installable': True,
 }
